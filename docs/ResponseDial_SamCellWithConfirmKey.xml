@@ -1,1 +1,1 @@
-<Response><Dial timeout="25" callerName="Human-ISM Incoming" callerId="18558559785" confirmSound="http://www.human-ism.com/Plivo/HUMAN/ResponseSpeak_HumanISMCallPress1ToAccept_ConfirmSound.xml" confirmKey="1"><Number>18314207508</Number></Dial></Response>
+<Response><Dial timeout="25" callerName="Human-ISM Incoming" callerId="18558559785" confirmSound="./ResponseSpeak_HumanISMCallPress1ToAccept_ConfirmSound.xml" confirmKey="1"><Number>18314207508</Number></Dial></Response>
