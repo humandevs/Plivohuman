@@ -1,0 +1,1 @@
+<Response><Dial timeout="25" callerName="Human-ISM Incoming" callerId="18312000060" confirmSound="https://cdn-human-ism.s3.us-west-1.amazonaws.com/Plivo/HUMAN/ResponseSpeak_HumanISMCallPress1ToAccept_ConfirmSound.xml" confirmKey="1"><Number>18314313661</Number></Dial></Response>
